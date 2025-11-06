@@ -1,0 +1,1 @@
+Este projeto foca na demonstração de um pipeline completo de Machine Learning, desde a preparação dos dados até o treinamento e registro do modelo, com ênfase nas práticas de MLOps (Machine Learning Operations). O objetivo é criar um fluxo de trabalho repetível, automatizado e monitorável para o ciclo de vida de um modelo de ML.
